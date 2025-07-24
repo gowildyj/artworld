@@ -14,7 +14,7 @@ export default defineConfig({
       manifest: {
         name: "Atelier",
         short_name: "Atelier",
-        theme_color: "#ffd1dc",
+        theme_color: "#ffffff",
         start_url: "/",
         display: "standalone",
         icons: [

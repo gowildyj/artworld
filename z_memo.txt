@@ -1,0 +1,9 @@
+💡 추천 워크플로우
+	1.	✅ React + PWA + 다크모드/테마 지원 + React Bootstrap
+	2.	✅ Router와 Context로 메뉴별 라우팅 및 상태 관리
+	3.	✅ 모든 메뉴 UI 화면과 기능(클릭, 리스트, 입력 등) 프론트에서 완료
+	4.	✅ 가짜 데이터로 테스트
+	5.	✅ Vercel 또는 Netlify에 1차 배포 → 피드백
+	6.	✅ 백엔드(Spring Boot) + DB 설계 → REST API 구현
+	7.	✅ Postman 테스트 → 프론트 연동
+	8.	✅ 전체 배포 & 관리자 전용 기능 활성화

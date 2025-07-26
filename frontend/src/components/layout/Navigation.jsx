@@ -11,8 +11,8 @@ export default function Navigation() {
     { to: "/exhibitions", label: "Exhibitions" },
     { to: "/news", label: "News" },
     { to: "/contact", label: "Contact" },
-    { to: "/shop", label: "Shop" },
-    { to: "/admin", label: "Admin" },
+    // { to: "/shop", label: "Shop" },
+    // { to: "/admin", label: "Admin" },
   ];
 
   // Left Brand Check Width

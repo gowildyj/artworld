@@ -23,7 +23,7 @@ export default function Navigation() {
             {/* Left Brand */}
             <Col xs="auto" lg={3}>
               <Navbar.Brand as={Link} to="/">
-                Mon Petit Atelier
+                Mon Petit Atelier*
               </Navbar.Brand>
             </Col>
 

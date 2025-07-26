@@ -1,6 +1,7 @@
+/* Desktop */
 .site-header {
   width: 100%;
-  height: 200px;
+  height: 100px;
   background-image: url('../assets/192.png'); /* 이미지 경로 */
   background-size: cover;
   background-position: center;
@@ -25,19 +26,20 @@
 }
 
 .site-title {
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: bold;
   color: #222;
   margin: 0;
 }
 
+/* Responsive */
 @media (max-width: 768px) {
   .site-header {
-    height: 150px;
+    height: 100px;
   }
 
   .site-title {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 
   .site-logo {

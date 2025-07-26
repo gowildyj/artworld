@@ -5,10 +5,10 @@ import { Link } from "react-router-dom";
 export default function Header() {
   return (
     <header className="site-header">
-      <Link to="/" className="header-link">
+      <Link to="/" className="no-underline">
         <div className="header-overlay">
           {/* <img src={headerImage} alt="Site Logo" className="site-logo" /> */}
-          <h1 className="site-title">Little Atelier</h1>
+          <h1 className="site-title tangerine-bold">Chung Soojin</h1>
         </div>
       </Link>
     </header>

@@ -17,18 +17,21 @@ export default function Navigation() {
 
   return (
     <>
-      <Navbar expand="lg" className="bg-body-tertiary">
+      <Navbar expand="lg" className="bg-body-tertiary px-0 ">
         <Container fluid className="w-100 px-3 justify-content-center">
           <Row className="w-100 align-items-center">
             {/* Left Brand */}
             <Col xs="auto" lg={3}>
               <Navbar.Brand as={Link} to="/">
-                Mon Petit Atelier*
+                Atelier
               </Navbar.Brand>
             </Col>
 
             {/* Center Nav Menu */}
-            <Col lg={6} className="d-none d-lg-flex justify-content-center">
+            <Col
+              lg={6}
+              className="d-none d-lg-flex justify-content-center nav-center"
+            >
               <Nav>
                 {menuItems.map(({ to, label }) => (
                   <Nav.Link key={to} as={Link} to={to} className="mx-2">
@@ -56,6 +59,7 @@ export default function Navigation() {
         show={showOffcanvas}
         onHide={() => setShowOffcanvas(false)}
         placement="end"
+        className="offcanvas-menu"
       >
         <Offcanvas.Header closeButton>
           <Offcanvas.Title>Menu</Offcanvas.Title>
@@ -63,15 +67,15 @@ export default function Navigation() {
         <Offcanvas.Body>
           <Nav className="flex-column text-center">
             {menuItems.map(({ to, label }) => (
-              <Nav.Link
+              <Link
                 key={to}
                 as={Link}
                 to={to}
                 onClick={() => setShowOffcanvas(false)}
-                className="fs-2"
+                className="fs-2 no-underline"
               >
                 {label}
-              </Nav.Link>
+              </Link>
             ))}
           </Nav>
         </Offcanvas.Body>

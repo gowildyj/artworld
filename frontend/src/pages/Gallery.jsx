@@ -1,7 +1,5 @@
+import { Container, Row, Col, Image } from "react-bootstrap";
+
 export default function Gallery() {
-  return (
-    <div>
-      <h1>Gallery</h1>
-    </div>
-  );
+  return <>Gallery</>;
 }

@@ -18,7 +18,7 @@ export default function AppRoutes() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/" element={<Gallery />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/gallery" element={<Gallery />}></Route>
         <Route path="/gallery/artwork/:id" element={<GalleryDetailPage />} />

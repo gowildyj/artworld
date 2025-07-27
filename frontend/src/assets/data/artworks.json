@@ -1,7 +1,101 @@
-{
-  "title": "Au café",
-  "collection": "",
-  "path": "https://static.wixstatic.com/media/301585_796c1fb06a5149c896c696d88d516fc9~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
-  "date": "2025",
-  "description": ""
-}
+[
+  {
+    "id": 0,
+    "title": "Au café",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_796c1fb06a5149c896c696d88d516fc9~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "50x69 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 1,
+    "title": "Chambre des sœurs ,2025",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_36ff3321d73243d091dc6dc45c8ae2b0~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "50x69 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Prière au Bouddha 2025",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_d6cd4e99eb734b16a91cc2e49a6794e7~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "30x30 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "title": "Au café",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_796c1fb06a5149c896c696d88d516fc9~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "50x69 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "Chambre des sœurs ,2025",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_36ff3321d73243d091dc6dc45c8ae2b0~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "50x69 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "Prière au Bouddha 2025",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_d6cd4e99eb734b16a91cc2e49a6794e7~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "30x30 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "title": "Au café",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_796c1fb06a5149c896c696d88d516fc9~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "50x69 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "title": "Chambre des sœurs ,2025",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_36ff3321d73243d091dc6dc45c8ae2b0~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "50x69 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "title": "Prière au Bouddha 2025",
+    "collection": "La brillance des cicatrices",
+    "type": "painting",
+    "path": "https://static.wixstatic.com/media/301585_d6cd4e99eb734b16a91cc2e49a6794e7~mv2.jpg/v1/fill/w_530,h_530,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.jpg",
+    "date": "2025",
+    "dimensions": "30x30 cm",
+    "medium": "UV resin, Mix media",
+    "description": ""
+  }
+]

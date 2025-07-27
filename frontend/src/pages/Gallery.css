@@ -1,0 +1,124 @@
+.img-thumbnail {
+  border: none;
+}
+
+.gallery-thumbnail {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+  cursor: pointer;
+  border: none;
+  transition: transform 0.2s ease;
+}
+
+.gallery-thumbnail:hover {
+  transform: scale(1.03);
+}
+
+.modal-art-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.modal-content-wrapper {
+  position: relative; /* 자식 요소의 position: absolute 기준이 됨 */
+  line-height: 0; /* Image와 div 사이의 불필요한 공백 제거 */
+}
+
+/* 캐러셀 버튼 공통 스타일 */
+.carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.7);
+  z-index: 10;
+  transition: color 0.2s;
+}
+
+.carousel-control:hover {
+  color: white;
+}
+
+.carousel-control.prev {
+  left: 10px;
+}
+
+.carousel-control.next {
+  right: 10px;
+}
+
+/* 작품 정보 스타일 */
+.art-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+  color: white;
+  padding: 40px 20px 20px;
+  line-height: 1.5; /* 텍스트 줄 간격 복구 */
+}
+
+.art-info p {
+  margin-bottom: 0.5rem;
+}
+
+.art-info a {
+  color: #a0d8ff;
+  text-decoration: none;
+}
+.art-info a:hover {
+  text-decoration: underline;
+}
+
+/* Gallery.css */
+
+.modal-image-container {
+  position: relative; /* 화살표 버튼의 기준점이 됨 */
+  flex-shrink: 0; /* flex 레이아웃에서 줄어들지 않도록 설정 */
+}
+
+/* 화살표 버튼 공통 스타일 */
+.modal-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 0 1rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.modal-arrow:hover {
+  color: white;
+  transform: translateY(-50%) scale(1.1);
+}
+
+/* 비활성화된 버튼 스타일 */
+.modal-arrow:disabled {
+  color: rgba(255, 255, 255, 0.2);
+  cursor: not-allowed;
+}
+.modal-arrow:disabled:hover {
+  transform: translateY(-50%); /* 비활성화 시 hover 효과 제거 */
+}
+
+/* 이전/다음 버튼 위치 */
+.modal-arrow.prev {
+  left: 0;
+}
+.modal-arrow.next {
+  right: 0;
+}
+
+.modal-art-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

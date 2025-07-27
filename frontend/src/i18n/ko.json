@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Gallery",
+    "exhibitions": "Exhibitions",
+    "news": "News",
+    "contact": "Contact",
+    "shop": "Shop",
+    "admin": "Admin"
+  },
+  "about": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Gallery",
+    "exhibitions": "Exhibitions",
+    "news": "News",
+    "contact": "Contact",
+    "shop": "Shop",
+    "admin": "Admin"
+  }
+}

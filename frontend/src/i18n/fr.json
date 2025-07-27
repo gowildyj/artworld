@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "home": "Accueil",
+    "about": "Bio",
+    "gallery": "Galerie",
+    "exhibitions": "Expositions",
+    "news": "Actualités",
+    "contact": "Contact",
+    "shop": "Boutique",
+    "admin": "Admin"
+  }
+}

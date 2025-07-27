@@ -1,0 +1,96 @@
+{
+  "menu": {
+    "activities": "Activités marquantes",
+    "educations": "Education",
+    "works": "Exhibition / Works",
+    "etc": "ETC"
+  },
+  "bio": {
+    "name": "Madame Chung",
+    "title": "화가 / 작가",
+    "birth": "대한민국, 서울출생",
+    "current": "프랑스 파리에서 거주 및 활동중",
+    "desc": "정수진(Soo Jin CHUNG, 1988년 서울 출생)은 파리 1대학 팡테옹-소르본에서 조형예술 및 예술과학 박사과정을 밟고 있는 현대미술 작가이자 연구자이다. 예술심리학, 정신분석, 뉴미디어의 교차 지점에서 인간 감각과 감정의 변형을 탐구하며, 특히 가상 캐릭터와 인간의 상호작용이 인지와 감성에 미치는 영향을 예술적 언어로 풀어낸다. 그녀의 작업은 회화, 영상, 설치, 퍼포먼스를 넘나들며 감각적 경험과 심리적 서사를 연결짓는 데 주력한다.그녀는 프랑스, 독일, 일본, 이탈리아, 룩셈부르크, 중국, 한국 등 15개국 이상에서 전시를 개최하였으며, 2019년 도쿄 Art Olympia에서 학생 부문 우수상, 2022년 모던아트 대상전 수상 등의 성과를 거두었다. 또한 EDUNOVATIC 국제학술대회(2024~2025, 마드리드)에서 발표자 및 기조연설자로 초청받으며 이론과 실천을 아우르는 예술가로서의 면모를 보여주고 있다."
+  },
+  "activities": [
+    {
+      "date": "2025년 11월",
+      "location": "마드리드, 스페인",
+      "title": "EDUNOVATIC 국제 학술대회 기조연설자"
+    },
+    {
+      "date": "2024년 11월",
+      "location": "마드리드, 스페인",
+      "title": "EDUNOVATIC 국제 교육 및 정보통신기술 학술대회 발표자"
+    },
+    {
+      "date": "2024년 2월",
+      "location": "파리 1대학 예술학교, 파리, 프랑스",
+      "title": "Saint Charles en pratique 전시 참여"
+    }
+  ],
+  "educations": [
+    {
+      "date": "2025 년",
+      "desc": "파리​ 1대학 팡테옹 소르본 : 조형예술예술과 과학 박사중",
+      "major": null
+    },
+    {
+      "date": "2017 년",
+      "desc": "Université Paris 1 Panthéon-Sorbonne(파리 1대학 팡테옹 소르본) 석사2 졸업",
+      "major": "​Création et Plasticités Contemporaines"
+    },
+    {
+      "date": "2014 년",
+      "desc": "​국립조형예술 학사학위 취득​  (DNAP) (Option art)",
+      "major": null
+    },
+    {
+      "date": "2010 년",
+      "desc": "서울여자 대학교 시각디자인학과 2학년  휴학",
+      "major": "Art plastique"
+    },
+    {
+      "date": "2007 년",
+      "desc": "​국립조형예술 학사학위 취득​  (DNAP) (Option art)",
+      "major": null
+    },
+    {
+      "date": "2014 년",
+      "desc": "서울 여의도 여자고등학교 졸업",
+      "major": null
+    }
+  ],
+  "works": [
+    {
+      "date": "2025년 11월",
+      "desc": "EDUNOVATIC 국제 학술대회 기조연설자",
+      "location": "마드리드, 스페인"
+    },
+    {
+      "date": "2024년 11월",
+      "desc": "EDUNOVATIC 국제 교육 및 정보통신기술 학술대회 발표자",
+      "location": "마드리드, 스페인"
+    },
+    {
+      "date": "2024년 2월",
+      "desc": "Saint Charles en pratique 전시 참여, 파리 1대학 예술학교",
+      "location": "파리, 프랑스"
+    },
+    {
+      "date": "2023년 5월",
+      "desc": "대한민국 미술박람회 ‘작은 작품특별전’, KINTEX",
+      "location": "일산, 대한민국"
+    },
+    {
+      "date": "2023년 5월",
+      "desc": "Artful Visions 아마디 한남 갤러리,  용산",
+      "location": "서울, 대한민국"
+    },
+    {
+      "date": "2024년 2월",
+      "desc": "Saint Charles en pratique 전시 참여, 파리 1대학 예술학교",
+      "location": "파리, 프랑스"
+    }
+  ]
+}

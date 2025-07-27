@@ -122,3 +122,7 @@
   height: auto;
   border-radius: 8px;
 }
+
+.modal-backdrop {
+  opacity: 0.8 !important;
+}
